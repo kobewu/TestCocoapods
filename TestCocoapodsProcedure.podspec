@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name        = 'TestCocoapodsProcedure'
-s.version     = '1.0.2'
+s.version     = '0.1'
 s.authors     = { 'satanwoo' => 'example@example.com' }
 s.homepage    = 'https://github.com/kobewu/TestCocoapods'
 s.summary     = 'test cocoapods'
