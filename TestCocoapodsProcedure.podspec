@@ -10,8 +10,8 @@ s.license     = { :type => "MIT", :file => "LICENSE" }
 
 s.platform = :ios, '9.0'
 s.requires_arc = true
-s.source_files = 'TestCocoapods'
-s.public_header_files = 'TestCocoapods/*.h'
+s.source_files = 'src'
+s.public_header_files = 'src/*.h'
 
 s.ios.deployment_target = '9.0'
 
